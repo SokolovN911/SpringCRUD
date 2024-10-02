@@ -1,6 +1,6 @@
 HELP.md
 .gradle
-.DS_
+.DS_Store
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -23,6 +23,7 @@ bin/
 *.iws
 *.iml
 *.ipr
+*.bat
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
